@@ -1,0 +1,5 @@
+@media (max-width:700px) {
+    .binNav .nav .navigation{
+        display: none;
+    }
+}
